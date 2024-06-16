@@ -1,4 +1,4 @@
-# GRPC and Distributed Systems - CS6200
+# GRPC and Distributed Systems
 
 ## Project Overview
 
